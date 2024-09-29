@@ -1,6 +1,8 @@
 # pcse
 Panel corrected standard error estimation Use pcse With (In) R Software
 
+https://www.youtube.com/watch?v=gYCQbYUbCSE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
